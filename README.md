@@ -1,8 +1,4 @@
 # Predict-Online-Learning-Completion_202401100300150
-AI model for predicting the chances of student completing a given course
-
-# Online Learning Completion Predictor
-
 A Python implementation of a machine learning model to predict whether students will complete an online course based on their engagement metrics.
 
 ## Overview
