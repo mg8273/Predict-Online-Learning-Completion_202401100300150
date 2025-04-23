@@ -22,26 +22,6 @@ This implementation provides:
 - matplotlib
 - seaborn
 
-## Installation
-
-Clone this repository:
-```bash
-git clone https://github.com/yourusername/online-learning-predictor.git
-cd online-learning-predictor
-```
-
-Install required packages:
-```bash
-pip install -r requirements.txt
-```
-
-## Usage
-
-Run the program:
-```bash
-python predict_completion.py
-```
-
 ### Input Data Format
 
 The program expects a CSV file with the following columns:
@@ -158,13 +138,3 @@ The program generates several visualizations:
 - Different model architectures (Neural Networks, Gradient Boosting)
 - Deployment as a web application for real-time predictions
 - Integration with intervention systems
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
